@@ -1,0 +1,86 @@
+body{
+  background-image:url("background.jpg");
+}
+
+.conteiner{
+  width: 3652px;
+  height: 3000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 100px;
+  border-radius: 50px;
+}
+
+header{
+text-align: center;
+  padding-top: 300px;
+  opacity: 1;
+
+}
+
+.titolo {
+  color: lime;
+  font-size: 100px
+}
+
+.green-box{
+font-size: 30;
+background-color: lime;
+height: 200px;
+width: 3000px;
+margin: auto;
+text-align: center;
+border-radius: 10px;
+}
+
+div button {
+    display: inline-block;
+    margin: 50px;
+    padding: 6px 10px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-size: 50px;
+    cursor: pointer;
+    }
+
+
+main{
+  padding-left: 315px;
+  line-height: 1.5;
+  padding-top: 100px;
+  color:white;
+  font-size: 70px;
+
+
+}
+
+
+.cheackbox{
+  display: inline-block;
+
+}
+
+.modello{
+  display: inline-block;
+  font-size: 100px;
+}
+
+span > div{
+  height: 150px;
+  border-radius: 20px;
+}
+.loading1{
+  width: 1500px;
+  background-color:orange;
+}
+
+.loading2{
+  width: 2200px;
+  background-color:red;
+}
+
+.loading3{
+  width: 800px;
+  background-color: blue;
+}
